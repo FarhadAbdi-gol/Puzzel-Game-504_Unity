@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MainLight
+  - sea
+  - piano
+  - seaandpiano
+  - cilent
+  - SFX
+  - PanelWords
+  - Word
+  - test
+  - CloneLevel1
+  - CloneLevel2
+  - CloneLevel3
+  - CloneLevel4
+  - CloneLevel5
+  - CloneLevel6
+  - CloneLevel7
+  - CloneLevel8
+  - CloneLevel9
+  - CloneLevel10
+  - CloneLevel11
+  - CloneLevel12
+  - CloneLevel13
+  - CloneLevel14
+  - CloneLevel15
+  - CloneLevel16
+  - CloneLevel17
+  - CloneLevel18
+  - CloneLevel19
+  - CloneLevel20
+  - CloneLevel21
+  - Lesson
+  - Lesson20
+  - Lesson37
+  - Lesson24
+  - Lesson1
+  - Lesson14
+  - Lesson42
+  - Lesson38
+  - Lesson3
+  - Lesson22
+  - Lesson21
+  - Lesson39
+  - Lesson40
+  - Lesson5
+  - Lesson26
+  - Lesson27
+  - Lesson32
+  - Lesson11
+  - Lesson30
+  - Lesson17
+  - Lesson28
+  - Lesson29
+  - Lesson23
+  - Lesson31
+  - Lesson25
+  - Lesson15
+  - Lesson19
+  - Lesson6
+  - Lesson12
+  - Lesson7
+  - Lesson2
+  - Lesson9
+  - Lesson35
+  - Lesson18
+  - Lesson41
+  - Lesson16
+  - Lesson8
+  - Lesson13
+  - Lesson10
+  - Lesson4
+  - Lesson36
+  - Lesson33
+  - Lesson34
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - CanvasMain
+  - Luck
+  - Setting Exit
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
